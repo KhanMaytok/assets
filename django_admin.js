@@ -1,1 +1,1 @@
-var editor = new MediumEditor('id_content');
+var editor = new MediumEditor('#id_content');
